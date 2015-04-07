@@ -1,0 +1,14 @@
+.read test1.sql
+.separator ,
+.mode column
+.header on 
+
+.import Data/Cities.csv Cities
+.import Data/Games.csv Games
+.import Data/Sports.csv Sports
+.import Data/Disciplines.csv Disciplines
+.import Data/Events.csv Events
+.import Data/Athletes.csv Athletes
+.import Data/Awards.csv Awards
+.import Data/Winners.csv Winners
+

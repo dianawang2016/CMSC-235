@@ -1,0 +1,750 @@
+1,Swimming - 100m freestyle - M,1
+2,Swimming - 100m freestyle for sailors - M,1
+3,Swimming - 1200m freestyle - M,1
+4,Swimming - 400m freestyle - M,1
+5,Swimming - 1500m freestyle - M,1
+6,Swimming - 200m backstroke - M,1
+7,Swimming - 200m freestyle - M,1
+8,Swimming - 200m obstacle event - M,1
+9,Swimming - 200m team swimming - M,1
+10,Swimming - 4000m freestyle - M,1
+11,Swimming - underwater swimming - M,1
+12,Swimming - 100m backstroke - M,1
+13,Swimming - 400m breaststroke - M,1
+14,Swimming - 4x50y freestyle relay - M,1
+15,Swimming - 50y freestyle (45.72m) - M,1
+16,Swimming - 880y freestyle (804.66m) - M,1
+17,Swimming - 200m breaststroke - M,1
+18,Swimming - 4x200m freestyle relay - M,1
+19,Swimming - 100m freestyle - W,1
+20,Swimming - 4x100m freestyle relay - W,1
+21,Swimming - 400m freestyle - W,1
+22,Swimming - 100m backstroke - W,1
+23,Swimming - 200m breaststroke - W,1
+24,Swimming - 100m butterfly - W,1
+25,Swimming - 200m butterfly - M,1
+26,Swimming - 4x100m medley relay - M,1
+27,Swimming - 4x100m medley relay - W,1
+28,Swimming - 400m individual medley - M,1
+29,Swimming - 400m individual medley - W,1
+30,Swimming - 4x100m freestyle relay - M,1
+31,Swimming - 100m breaststroke - M,1
+32,Swimming - 100m breaststroke - W,1
+33,Swimming - 100m butterfly - M,1
+34,Swimming - 200m backstroke - W,1
+35,Swimming - 200m butterfly - W,1
+36,Swimming - 200m freestyle - W,1
+37,Swimming - 200m individual medley - M,1
+38,Swimming - 200m individual medley - W,1
+39,Swimming - 800m freestyle - W,1
+40,Swimming - 50m freestyle - M,1
+41,Swimming - 50m freestyle - W,1
+42,Swimming - 4x200m freestyle relay - W,1
+43,Swimming - marathon 10km - M,1
+44,Swimming - marathon 10km - W,1
+45,Water polo - water polo - M,2
+46,Water polo - water polo - W,2
+47,Diving - 10m platform - M,3
+48,Diving - plunge for distance - M,3
+49,Diving - 3m springboard - M,3
+50,Diving - 10m platform - W,3
+51,Diving - plain high diving - M,3
+52,Diving - 3m springboard - W,3
+53,Diving - synchronized diving 10m platform - M,3
+54,Diving - synchronized diving 10m platform - W,3
+55,Diving - synchronized diving 3m springboard - M,3
+56,Diving - synchronized diving 3m springboard - W,3
+57,Synchronized S. - duet - W,4
+58,Synchronized S. - solo - W,4
+59,Synchronized S. - team - W,4
+60,"Archery - au chapelet, 33m - M",5
+61,"Archery - au chapelet, 50m - M",5
+62,"Archery - au cordon doré, 33m - M",5
+63,"Archery - au cordon doré, 50m - M",5
+64,Archery - sur la perche à la herse - M,5
+65,Archery - sur la perche à la pyramide - M,5
+66,Archery - double american round (60y - 50y - 40y) - M,5
+67,Archery - double columbia round (50y - 40y - 30y) - W,5
+68,Archery - double national round (60y - 50y) - W,5
+69,Archery - double york round (100y - 80y - 60y) - M,5
+70,Archery - team round 60y - M,5
+71,Archery - teams FITA round - W,5
+72,Archery - continental style 50m - M,5
+73,Archery - national round (60y - 50y) - W,5
+74,Archery - york round (100y - 80y - 60y) - M,5
+75,Archery - fixed bird target large birds - M,5
+76,Archery - fixed bird target large birds teams - M,5
+77,"Archery - fixed bird target small bird, teams - M",5
+78,Archery - fixed bird target small birds - M,5
+79,Archery - moving bird target 28m teams - M,5
+80,Archery - moving bird target 33m teams - M,5
+81,Archery - moving bird target 50m teams - M,5
+82,"Archery - moving bird target, 28m - M",5
+83,"Archery - moving bird target, 33m - M",5
+84,"Archery - moving bird target, 50m - M",5
+85,Archery - individual FITA round - M,5
+86,Archery - individual FITA round - W,5
+87,Archery - teams FITA round - M,5
+88,Archery - individual (FITA Olympic round - 70m) - M,5
+89,Archery - individual (FITA Olympic round - 70m) - W,5
+90,Archery - team (FITA Olympic round - 70m) - M,5
+91,Archery - team (FITA Olympic round - 70m) - W,5
+92,Athletics - 100m - M,6
+93,Athletics - 110m hurdles - M,6
+94,Athletics - 1500m - M,6
+95,Athletics - 400m - M,6
+96,Athletics - 800m - M,6
+97,Athletics - discus throw - M,6
+98,Athletics - high jump - M,6
+99,Athletics - long jump - M,6
+100,Athletics - marathon - M,6
+101,Athletics - pole vault - M,6
+102,Athletics - shot put - M,6
+103,Athletics - triple jump - M,6
+104,Athletics - 200m - M,6
+105,Athletics - 200m hurdles - M,6
+106,Athletics - 3000m steeplechase - M,6
+107,Athletics - 4000m steeplechase - M,6
+108,Athletics - 400m hurdles - M,6
+109,Athletics - 5000m team - M,6
+110,Athletics - 60m - M,6
+111,Athletics - hammer throw - M,6
+112,"Athletics - high jump, standing - M",6
+113,"Athletics - long jump, standing - M",6
+114,"Athletics - triple jump, standing - M",6
+115,Athletics - 4miles team - M,6
+116,Athletics - 56lb weight throw (25.4kg) - M,6
+117,Athletics - decathlon - M,6
+118,Athletics - triathlon (long jump / shot put / 100 yards) - M,6
+119,Athletics - 10miles walk (16093m) - M,6
+120,Athletics - 3200m steeplechase - M,6
+121,Athletics - 3500m walk - M,6
+122,Athletics - 3miles team (4828m) - M,6
+123,Athletics - 4x400m relay - M,6
+124,Athletics - 5 miles (8047m) - M,6
+125,Athletics - discus throw ancient style - M,6
+126,Athletics - javelin throw - M,6
+127,Athletics - javelin throw freestyle - M,6
+128,Athletics - 10000m - M,6
+129,Athletics - 10000m walk - M,6
+130,Athletics - 3000m team - M,6
+131,Athletics - 4x100m relay - M,6
+132,Athletics - 5000m - M,6
+133,Athletics - cross country individual - M,6
+134,Athletics - cross country team - M,6
+135,"Athletics - discus throw, both hands - M",6
+136,"Athletics - javelin throw, both hands - M",6
+137,Athletics - pentathlon - M,6
+138,"Athletics - shot put, both hands - M",6
+139,Athletics - 3000m walk - M,6
+140,Athletics - 100m - W,6
+141,Athletics - 4x100m relay - W,6
+142,Athletics - 800m - W,6
+143,Athletics - discus throw - W,6
+144,Athletics - high jump - W,6
+145,Athletics - 50km walk - M,6
+146,Athletics - 80m hurdles - W,6
+147,Athletics - javelin throw - W,6
+148,Athletics - 200m - W,6
+149,Athletics - long jump - W,6
+150,Athletics - shot put - W,6
+151,Athletics - 20km walk - M,6
+152,Athletics - 400m - W,6
+153,Athletics - pentathlon - W,6
+154,Athletics - 100m hurdles - W,6
+155,Athletics - 1500m - W,6
+156,Athletics - 4x400m relay - W,6
+157,Athletics - 3000m - W,6
+158,Athletics - 400m hurdles - W,6
+159,Athletics - heptathlon - W,6
+160,Athletics - marathon - W,6
+161,Athletics - 10000m - W,6
+162,Athletics - 10000m walk - W,6
+163,Athletics - 5000m - W,6
+164,Athletics - triple jump - W,6
+165,Athletics - 20km race walk - W,6
+166,Athletics - hammer throw - W,6
+167,Athletics - pole vault - W,6
+168,Athletics - 3000m steeplechase - W,6
+169,Badminton - doubles - M,7
+170,Badminton - doubles - W,7
+171,Badminton - singles - M,7
+172,Badminton - singles - W,7
+173,Badminton - doubles - X,7
+174,Baseball - baseball - M,8
+175,Basketball - basketball - M,9
+176,Basketball - basketball - W,9
+177,Basque Pelota - cesta punta - M,10
+178,Boxing - - 47.63kg (flyweight) - M,11
+179,Boxing - + 71.67kg (heavyweight) - M,11
+180,Boxing - 47.63 - 52.16kg (bantamweight) - M,11
+181,Boxing - 52.16 - 56.7kg (featherweight) - M,11
+182,Boxing - 56.7 - 61.24kg (lightweight) - M,11
+183,Boxing - 61.24 - 65.77kg (welterweight) - M,11
+184,Boxing - 65.77 - 71.67kg (middleweight) - M,11
+185,Boxing - - 52.62kg (bantamweight) - M,11
+186,Boxing - 52.62 - 57.15kg (featherweight) - M,11
+187,Boxing - 57.15 - 63.5kg (lightweight) - M,11
+188,Boxing - 63.5 - 71.67kg (middleweight) - M,11
+189,Boxing - - 50.8kg (flyweight) - M,11
+190,Boxing - + 79.38kg (heavyweight) - M,11
+191,Boxing - 50.8 - 53.52kg (bantamweight) - M,11
+192,Boxing - 53.52 - 57.15kg (featherweight) - M,11
+193,Boxing - 57.15 - 61.24kg (lightweight) - M,11
+194,Boxing - 61.24 - 66.68kg (welterweight) - M,11
+195,Boxing - 66.68 - 72.57kg (middleweight) - M,11
+196,Boxing - 72.57 - 79.38kg (light-heavyweight) - M,11
+197,Boxing - 50.8 - 54kg (bantamweight) - M,11
+198,Boxing - 54 - 57.15kg (featherweight) - M,11
+199,Boxing - - 51kg (flyweight) - M,11
+200,Boxing - + 80kg (heavyweight) - M,11
+201,Boxing - 51 - 54kg (bantamweight) - M,11
+202,Boxing - 54 - 58kg (featherweight) - M,11
+203,Boxing - 58 - 62kg (lightweight) - M,11
+204,Boxing - 62 - 67kg (welterweight) - M,11
+205,Boxing - 67 - 73kg (middleweight) - M,11
+206,Boxing - 73 - 80kg (light-heavyweight) - M,11
+207,Boxing - + 81kg (heavyweight) - M,11
+208,Boxing - 54 - 57kg (featherweight) - M,11
+209,Boxing - 57 - 60kg (lightweight) - M,11
+210,Boxing - 60 - 63.5kg (light-welterweight) - M,11
+211,Boxing - 63.5 - 67kg (welterweight) - M,11
+212,Boxing - 67 - 71kg (light-middleweight) - M,11
+213,Boxing - 71-75kg - M,11
+214,Boxing - 75 - 81kg (light-heavyweight) - M,11
+215,Boxing - - 48kg (light-flyweight) - M,11
+216,Boxing - 48 - 51kg (flyweight) - M,11
+217,Boxing - + 91kg (super heavyweight) - M,11
+218,Boxing - 81 - 91kg (heavyweight) - M,11
+219,Boxing - 48kg (light flywieght) - M,11
+220,Boxing - 60 - 64 kg - M,11
+221,Boxing - 64 - 69 kg - M,11
+222,Boxing - 69 - 75 kg - M,11
+223,Canoe / Kayak F - C-1 1000m (canoe single) - M,12
+224,Canoe / Kayak F - C-2 10000m - M,12
+225,Canoe / Kayak F - C-2 1000m (canoe double) - M,12
+226,Canoe / Kayak F - folding K-1 10000m - M,12
+227,Canoe / Kayak F - folding K-2 10000m - M,12
+228,Canoe / Kayak F - K-1 10000m - M,12
+229,Canoe / Kayak F - K-1 1000m (kayak single) - M,12
+230,Canoe / Kayak F - K-2 10000m - M,12
+231,Canoe / Kayak F - K-2 1000m (kayak double) - M,12
+232,Canoe / Kayak F - C-1 10000m - M,12
+233,Canoe / Kayak F - K-1 500m (kayak single) - W,12
+234,Canoe / Kayak F - K-1 4x500m - M,12
+235,Canoe / Kayak F - K-2 500m (kayak double) - W,12
+236,Canoe / Kayak F - K-4 1000m (kayak four) - M,12
+237,Canoe / Kayak F - C-1 500m (canoe single) - M,12
+238,Canoe / Kayak F - C-2 500m (canoe double) - M,12
+239,Canoe / Kayak F - K-1 500m (kayak single) - M,12
+240,Canoe / Kayak F - K-2 500m (kayak double) - M,12
+241,Canoe / Kayak F - K-4 500m (kayak four) - W,12
+242,Canoe / Kayak S - C-1 (canoe single) - M,13
+243,Canoe / Kayak S - C-2 (canoe double) - M,13
+244,Canoe / Kayak S - K-1 (kayak single) - M,13
+245,Canoe / Kayak S - K-1 (kayak single) - W,13
+246,Cricket - cricket - M,14
+247,Croquet - double - M,15
+248,Croquet - individual 1 ball - M,15
+249,Croquet - individual 2 balls - M,15
+250,Cycling Track - 100km - M,16
+251,Cycling Track - 10km - M,16
+252,Cycling Track - 12-hour race - M,16
+253,Cycling Track - 1km time trial - M,16
+254,Cycling Track - Sprint indivual - M,16
+255,Cycling Track - 25 kilometres - M,16
+256,Cycling Track - 1 mile (1609.3m) - M,16
+257,Cycling Track - 1/2 mile (804.7m) - M,16
+258,Cycling Track - 1/3 mile (536.5m) - M,16
+259,Cycling Track - 1/4 mile (402.3m) - M,16
+260,Cycling Track - 2 miles (3.218km) - M,16
+261,Cycling Track - 25 miles (40.232km) - M,16
+262,Cycling Track - 5 miles (8.046km) - M,16
+263,"Cycling Track - 1980 yards Pursuit, Team - M",16
+264,Cycling Track - 2000m tandem - M,16
+265,Cycling Track - 20km - M,16
+266,Cycling Track - 5000m - M,16
+267,Cycling Track - One lap (660y) sprint - M,16
+268,Cycling Track - 50km - M,16
+269,Cycling Track - Team Pursuit (4000m) - M,16
+270,Cycling Track - 1km Pursuit - M,16
+271,Cycling Track - Individual Pursuit - M,16
+272,Cycling Track - Points Race - M,16
+273,Cycling Track - sprint - W,16
+274,Cycling Track - individual pursuit - W,16
+275,Cycling Track - points race - W,16
+276,Cycling Track - 500m time trial - W,16
+277,Cycling Track - Keirin - M,16
+278,Cycling Track - Madison - M,16
+279,Cycling Track - Olympic Sprint - M,16
+280,Cycling Track - Team Sprint - M,16
+281,Cycling Road - individual road race - M,17
+282,Cycling Road - individual time trial - M,17
+283,Cycling Road - team time trial - M,17
+284,Cycling Road - individual road race - W,17
+285,Cycling Road - individual time trial - W,17
+286,Mountain Bike - cross-country - M,18
+287,Mountain Bike - cross-country - W,18
+288,BMX - Individual - M,19
+289,BMX - individual - W,19
+290,Jumping - high jump - X,20
+291,Jumping - individual - X,20
+292,Jumping - long jump individual - X,20
+293,Jumping - team - X,20
+294,Dressage - individual - X,21
+295,Dressage - team - X,21
+296,Eventing - individual - X,22
+297,Eventing - team - X,22
+298,Vaulting - figure riding individual - X,23
+299,Vaulting - figure riding team - X,23
+300,Fencing - foil individual - M,24
+301,"Fencing - foil, masters - M",24
+302,Fencing - sabre individual - M,24
+303,Fencing - épée individual - M,24
+304,"Fencing - épée, amateurs and masters - M",24
+305,"Fencing - épée, masters - M",24
+306,"Fencing - sabre, masters - M",24
+307,Fencing - foil team - M,24
+308,"Fencing - stick, single - M",24
+309,Fencing - épée team - M,24
+310,Fencing - sabre team - M,24
+311,Fencing - foil individual - W,24
+312,Fencing - foil team - W,24
+313,Fencing - épée individual - W,24
+314,Fencing - épée team - W,24
+315,Fencing - sabre individual - W,24
+316,Fencing - sabre team - W,24
+317,Football - football - M,25
+318,Football - football - W,25
+319,Golf - individual - M,26
+320,Golf - individual - W,26
+321,Golf - team - M,26
+322,Artistic G. - horizontal bar - M,27
+323,Artistic G. - parallel bars - M,27
+324,Artistic G. - pommel horse - M,27
+325,Artistic G. - rings - M,27
+326,Artistic G. - rope climbing - M,27
+327,"Artistic G. - team, horizontal bar - M",27
+328,"Artistic G. - team, parallel bars - M",27
+329,Artistic G. - vault - M,27
+330,Artistic G. - individual all-round - M,27
+331,Artistic G. - club swinging - M,27
+332,Artistic G. - combined 3 events - M,27
+333,Artistic G. - combined 4 events - M,27
+334,Artistic G. - team competition - M,27
+335,"Artistic G. - team, free system - M",27
+336,"Artistic G. - team, Swedish system - M",27
+337,Artistic G. - Sidehorse vault - M,27
+338,Artistic G. - team competition - W,27
+339,Artistic G. - floor exercises - M,27
+340,Artistic G. - indian clubs - M,27
+341,Artistic G. - tumbling - M,27
+342,Artistic G. - balance beam - W,27
+343,Artistic G. - floor exercises - W,27
+344,Artistic G. - individual all-round - W,27
+345,"Artistic G. - team, portable apparatus - W",27
+346,Artistic G. - uneven bars - W,27
+347,Artistic G. - vault - W,27
+348,Rhythmic G. - individual all-round - W,28
+349,Rhythmic G. - group competition - W,28
+350,Trampoline - individual - M,29
+351,Trampoline - individual - W,29
+352,Handball - handball - M,30
+353,Handball - handball - W,30
+354,Hockey - hockey - M,31
+355,Hockey - hockey - W,31
+356,Ice Hockey - ice hockey - M,32
+357,Jeu de Paume - individual - M,33
+358,Judo - - 68kg (lightweight) - M,34
+359,Judo - + 80kg (heavyweight) - M,34
+360,Judo - 68 - 80kg (middleweight) - M,34
+361,Judo - open category - M,34
+362,Judo - - 63kg (lightweight) - M,34
+363,Judo - + 93kg (heavyweight) - M,34
+364,Judo - 63 - 70kg (half-middleweight) - M,34
+365,Judo - 70 - 80kg (middleweight) - M,34
+366,Judo - 80 - 93kg (half-heavyweight) - M,34
+367,Judo - - 60 kg - M,34
+368,Judo - + 95kg (heavyweight) - M,34
+369,Judo - 60 - 65kg (half-lightweight) - M,34
+370,Judo - 65 - 71kg (lightweight) - M,34
+371,Judo - 71 - 78kg (half-middleweight) - M,34
+372,Judo - 78 - 86kg (middleweight) - M,34
+373,Judo - 86 - 95kg (half-heavyweight) - M,34
+374,Judo - - 48kg (extra-lightweight) - W,34
+375,Judo - + 72kg (heavyweight) - W,34
+376,Judo - 48 - 52kg (half-lightweight) - W,34
+377,Judo - 52 - 56kg (lightweight) - W,34
+378,Judo - 56 - 61kg (half-middleweight) - W,34
+379,Judo - 61 - 66kg (middleweight) - W,34
+380,Judo - 66 - 72kg (half-heavyweight) - W,34
+381,Judo - + 100kg (heavyweight) - M,34
+382,Judo - 60 - 66kg (half-lightweight) - M,34
+383,Judo - 66 - 73kg (lightweight) - M,34
+384,Judo - 73 - 81kg (half-middleweight) - M,34
+385,Judo - 81 - 90kg (middleweight) - M,34
+386,Judo - 90 - 100kg (half-heavyweight) - M,34
+387,Judo - + 78kg (heavyweight) - W,34
+388,Judo - 52 - 57kg (lightweight) - W,34
+389,Judo - 57 - 63kg (half-middleweight) - W,34
+390,Judo - 63 - 70kg (middleweight) - W,34
+391,Judo - 70 - 78kg (half-heavyweight) - W,34
+392,Judo - - 48 kg - W,34
+393,Lacrosse - lacrosse - M,35
+394,Modern Pentath. - Individual competition - M,36
+395,Modern Pentath. - Team competition - M,36
+396,Modern Pentath. - Individual competition - W,36
+397,Polo - polo - M,37
+398,Rackets - double - M,38
+399,Rackets - individual - M,38
+400,Roque - individual - M,39
+401,Rowing - eight with coxswain (8+) - M,40
+402,Rowing - four-oared shell with coxswain (4-) - M,40
+403,Rowing - pair-oared shell with coxswain (2+) - M,40
+404,Rowing - single sculls (1x) - M,40
+405,Rowing - coxless pair (2-) - M,40
+406,Rowing - double sculls (2x) - M,40
+407,Rowing - four without coxswain (4-) - M,40
+408,Rowing - coxed fours Jugriggers - M,40
+409,Rowing - double sculls (2x) - W,40
+410,Rowing - eight with coxswain (8+) - W,40
+411,Rowing - four-oared shell with coxswain (4-) - W,40
+412,Rowing - pair without coxswain (2-) - W,40
+413,Rowing - quadruple sculls with coxswain (4x) - W,40
+414,Rowing - quadruple sculls without coxswain (4x) - M,40
+415,Rowing - single sculls (1x) - W,40
+416,Rowing - quadruple sculls without coxswain (4x) - W,40
+417,Rowing - coxless four (4-) - W,40
+418,Rowing - lightweight coxless four (4-) - M,40
+419,Rowing - lightweight double sculls (2x) - M,40
+420,Rowing - lightweight double sculls (2x) - W,40
+421,Rugby - rugby - M,41
+422,Sailing - 0.5-1t - X,42
+423,Sailing - 10-20t - X,42
+424,Sailing - 3-10t - X,42
+425,Sailing - open class - X,42
+426,Sailing - 12m - X,42
+427,Sailing - 6m - X,42
+428,Sailing - 7m - X,42
+429,Sailing - 8m - X,42
+430,Sailing - 10m - X,42
+431,Sailing - 10m (rating 1907) - X,42
+432,Sailing - 10m (rating 1919) - X,42
+433,Sailing - 12 foot dinghy - X,42
+434,Sailing - 12m (rating 1907) - X,42
+435,Sailing - 12m (rating 1919) - X,42
+436,Sailing - 18 foot dinghy - X,42
+437,Sailing - 30m sq - X,42
+438,Sailing - 40m sq - X,42
+439,Sailing - 6.5m (rating 1919) - X,42
+440,Sailing - 6m (rating 1907) - X,42
+441,Sailing - 6m (rating 1919) - M,42
+442,Sailing - 8m (rating 1907) - X,42
+443,Sailing - 8m (rating 1919) - M,42
+444,Sailing - olympic class monotype - X,42
+445,Sailing - 12 foot dinghy individual - X,42
+446,Sailing - two-person keelboat open (Star) - X,42
+447,Sailing - dragon - X,42
+448,Sailing - firefly class - X,42
+449,Sailing - swallow (golondrina) - X,42
+450,Sailing - 5.5m - X,42
+451,Sailing - single-handed dinghy (Finn) - M,42
+452,Sailing - sharpie 12m2 - X,42
+453,Sailing - flying dutchman - X,42
+454,Sailing - fleet/match race keelboat open (Soling) - X,42
+455,Sailing - tempest - X,42
+456,Sailing - 470 - Two Person Dinghy - M,42
+457,Sailing - Tornado - Multihull - X,42
+458,Sailing - board (windglider) - M,42
+459,Sailing - 470 - Two Person Dinghy - W,42
+460,Sailing - board (division II) - M,42
+461,Sailing - board (lechner) - M,42
+462,Sailing - board (lechner) - W,42
+463,Sailing - single-handed dinghy (Europe) - W,42
+464,Sailing - board (Mistral) - M,42
+465,Sailing - board (Mistral) - W,42
+466,Sailing - single-handed dinghy open (Laser) - X,42
+467,Sailing - 49er - Skiff - X,42
+468,Sailing - Star - Keelboat - M,42
+469,Sailing - Yngling - Keelboat - W,42
+470,Sailing - Finn - Heavyweight Dinghy - X,42
+471,Sailing - Laser - One Person Dinghy - M,42
+472,Sailing - Laser Radial - One Person Dinghy - W,42
+473,Sailing - RS:X - Windsurfer - M,42
+474,Sailing - RS:X - Windsurfer - W,42
+475,Shooting - 25m army pistol - M,43
+476,Shooting - 25m rapid fire pistol (60 shots) - M,43
+477,Shooting - 50m pistol (60 shots) - M,43
+478,"Shooting - army rifle, 200m - M",43
+479,"Shooting - army rifle, 300m - M",43
+480,"Shooting - 50m army pistol, team - M",43
+481,"Shooting - army rifle, 300m, 3 positions - M",43
+482,"Shooting - army rifle, 300m, kneeling - M",43
+483,"Shooting - army rifle, 300m, prone - M",43
+484,"Shooting - army rifle, 300m, standing - M",43
+485,"Shooting - free rifle, team - M",43
+486,Shooting - trap (125 targets) - M,43
+487,"Shooting - 1000y free rifle, prone - M",43
+488,"Shooting - 100m running deer, double shots - M",43
+489,"Shooting - 100m running deer, single shots - M",43
+490,"Shooting - 100m running deer, single shots, team - M",43
+491,"Shooting - 25y small bore rifle, disappearing target - M",43
+492,"Shooting - 25y small bore rifle, moving target - M",43
+493,Shooting - 300m free rifle 3 positions (3x40 shots) - M,43
+494,"Shooting - 50+100y small bore rifle, team - M",43
+495,Shooting - 50m rifle prone (60 shots) - M,43
+496,"Shooting - 50y army pistol, team - M",43
+497,"Shooting - clay pigeons, team - M",43
+498,"Shooting - rifle, team - M",43
+499,"Shooting - 25m small bore rifle, team - M",43
+500,Shooting - 25m small rifle - M,43
+501,"Shooting - 30m army pistol, team - M",43
+502,"Shooting - 50m small bore rifle, team - M",43
+503,Shooting - 600m free rifle - M,43
+504,"Shooting - 100m running deer, double shots, team - M",43
+505,"Shooting - 300+600m free rifle, team, prone - M",43
+506,"Shooting - 300m free rifle, prone, team - M",43
+507,"Shooting - 300m free rifle, standing, team - M",43
+508,"Shooting - 50m small bore rifle, standing, individual - M",43
+509,"Shooting - 600m free rifle, prone - M",43
+510,"Shooting - 600m free rifle, team - M",43
+511,"Shooting - 400, 600, 800m free rifle, team - M",43
+512,"Shooting - 600m free rifle, individual - M",43
+513,"Shooting - 100m running deer, single/double shots - M",43
+514,Shooting - 50m rifle 3 positions (3x40 shots) - M,43
+515,Shooting - skeet (125 targets) - M,43
+516,Shooting - 25m rapid fire pistol (60 shots) - X,43
+517,Shooting - 300m free rifle 3 positions (3x40 shots) - X,43
+518,Shooting - 50m pistol (60 shots) - X,43
+519,Shooting - 50m rifle 3 positions (3x40 shots) - X,43
+520,Shooting - 50m rifle prone (60 shots) - X,43
+521,Shooting - 50m running target (30+30 shots) - X,43
+522,Shooting - skeet (125 targets) - X,43
+523,Shooting - trap (125 targets) - X,43
+524,Shooting - 10m air rifle (40 shots) - W,43
+525,Shooting - 10m air rifle (60 shots) - M,43
+526,Shooting - 25m pistol (30+30 shots) - W,43
+527,Shooting - 50m rifle 3 positions (3x20 shots) - W,43
+528,Shooting - 50m running target (30+30 shots) - M,43
+529,Shooting - 10m air pistol (40 shots) - W,43
+530,Shooting - 10m air pistol (60 shots) - M,43
+531,Shooting - double trap (120 targets) - W,43
+532,Shooting - double trap (150 targets) - M,43
+533,Shooting - 10m running target (30+30 shots) - M,43
+534,Shooting - skeet (75 targets) - W,43
+535,Shooting - trap (75 targets) - W,43
+536,Figure skating - individual - M,44
+537,Figure skating - individual - W,44
+538,Figure skating - pairs - X,44
+539,Figure skating - special figures - M,44
+540,Softball - softball - W,45
+541,Table Tennis - doubles - M,46
+542,Table Tennis - doubles - W,46
+543,Table Tennis - singles - M,46
+544,Table Tennis - singles - W,46
+545,Table Tennis - team - M,46
+546,Table Tennis - team - W,46
+547,Taekwondo - - 49 kg - W,47
+548,Taekwondo - - 58 kg - M,47
+549,Taekwondo - + 67 kg - W,47
+550,Taekwondo - + 80 kg - M,47
+551,Taekwondo - 49 - 57 kg - W,47
+552,Taekwondo - 57 - 67 kg - W,47
+553,Taekwondo - 58 - 68 kg - M,47
+554,Taekwondo - 68 - 80 kg - M,47
+555,Tennis - doubles - M,48
+556,Tennis - singles - M,48
+557,Tennis - mixed doubles - X,48
+558,Tennis - singles - W,48
+559,Tennis - doubles indoor - M,48
+560,Tennis - singles indoor - M,48
+561,Tennis - singles indoor - W,48
+562,Tennis - mixed doubles indoor - X,48
+563,Tennis - doubles - W,48
+564,Triathlon - Individual - M,49
+565,Triathlon - Individual - W,49
+566,Tug of War - tug of war - M,50
+567,Volleyball - volleyball - M,51
+568,Volleyball - volleyball - W,51
+569,Beach volley. - beach volleyball - M,52
+570,Beach volley. - beach volleyball - W,52
+571,Water Motorspor - 8m class C - M,53
+572,Water Motorspor - class B up to 60 feet - M,53
+573,Water Motorspor - open class A - M,53
+574,Weightlifting - heavyweight - one hand lift - M,54
+575,Weightlifting - heavyweight - two hand lift - M,54
+576,Weightlifting - all-around Dumbbell contest - M,54
+577,"Weightlifting - - 60kg, one-two hand 3 events (featherweight) - M",54
+578,"Weightlifting - + 82.5kg, one-two hand 3 events (heavyweight) - M",54
+579,"Weightlifting - 60 - 67.5kg, one-two hand 3 events (lightweight) - M",54
+580,"Weightlifting - 67.5 - 75kg, one-two hand 3 events (middleweight) - M",54
+581,"Weightlifting - 75 - 82.5kg, one-two hand 3 e. (light-heavyweight) - M",54
+582,"Weightlifting - - 60kg, one-two hand 5 events (featherweight) - M",54
+583,"Weightlifting - + 82.5kg, one-two hand 5 events (heavyweight) - M",54
+584,"Weightlifting - 60 - 67.5kg, one-two hand 5 events (lightweight) - M",54
+585,"Weightlifting - 67.5 - 75kg, one-two hand 5 events (middleweight) - M",54
+586,"Weightlifting - 75 - 82.5kg, one-two hand 5 e. (light-heavyweight) - M",54
+587,"Weightlifting - - 60kg, total (featherweight) - M",54
+588,"Weightlifting - + 82.5kg, total (heavyweight) - M",54
+589,"Weightlifting - 60 - 67.5kg, total (lightweight) - M",54
+590,"Weightlifting - 67.5 - 75kg, total (middleweight) - M",54
+591,"Weightlifting - 75 - 82.5kg, total (light-heavyweight) - M",54
+592,"Weightlifting - - 56kg, total (bantamweight) - M",54
+593,"Weightlifting - 56 - 60kg, total (featherweight) - M",54
+594,"Weightlifting - + 90kg, total (heavyweight) - M",54
+595,"Weightlifting - 82.5 - 90kg, total (middle-heavyweight) - M",54
+596,"Weightlifting - - 52kg, total (flyweight) - M",54
+597,"Weightlifting - + 110kg, total (super heavyweight) - M",54
+598,"Weightlifting - 52 - 56kg, total (bantamweight) - M",54
+599,"Weightlifting - 91 - 110kg, total (heavyweight) - M",54
+600,"Weightlifting - 100 - 110kg, total (heavyweight) - M",54
+601,"Weightlifting - 90 - 100kg, total (first-heavyweight) - M",54
+602,"Weightlifting - - 54kg, total (flyweight) - M",54
+603,"Weightlifting - + 108kg, total (super heavyweight) - M",54
+604,"Weightlifting - 54 - 59kg, total (bantamweight) - M",54
+605,"Weightlifting - 59 - 64kg, total (featherweight) - M",54
+606,"Weightlifting - 64 - 70kg, total (lightweight) - M",54
+607,"Weightlifting - 70 - 76kg, total (middleweight) - M",54
+608,"Weightlifting - 76 - 83kg, total (light-heavyweight) - M",54
+609,"Weightlifting - 83 - 91kg, total (middle-heavyweight) - M",54
+610,"Weightlifting - 91 - 99kg, total (first-heavyweight) - M",54
+611,"Weightlifting - 99 - 108kg, total (heavyweight) - M",54
+612,Weightlifting - + 105kg - M,54
+613,Weightlifting - + 75kg - W,54
+614,Weightlifting - 105kg - M,54
+615,Weightlifting - 48kg - W,54
+616,Weightlifting - 53kg - W,54
+617,Weightlifting - 56kg - M,54
+618,Weightlifting - 58kg - W,54
+619,Weightlifting - 62kg - M,54
+620,Weightlifting - 63kg - W,54
+621,Weightlifting - 69kg - M,54
+622,Weightlifting - 69kg - W,54
+623,Weightlifting - 75kg - W,54
+624,Weightlifting - 77kg - M,54
+625,Weightlifting - 85kg - M,54
+626,Weightlifting - 94kg - M,54
+627,Wrestling Gre-R - open event - M,55
+628,Wrestling Gre-R - - 66.6kg (lightweight) - M,55
+629,Wrestling Gre-R - + 93kg (super heavyweight) - M,55
+630,Wrestling Gre-R - 66.6 - 73kg (middleweight) - M,55
+631,Wrestling Gre-R - 73 - 93kg (light-heavyweight) - M,55
+632,Wrestling Gre-R - - 60kg (featherweight) - M,55
+633,Wrestling Gre-R - + 82.5kg (super heavyweight) - M,55
+634,Wrestling Gre-R - 60 - 67.5kg (lightweight) - M,55
+635,Wrestling Gre-R - 67.5 - 75kg (middleweight) - M,55
+636,Wrestling Gre-R - 75 - 82.5kg (light-heavyweight) - M,55
+637,Wrestling Gre-R - + 82kg (super heavyweight) - M,55
+638,Wrestling Gre-R - 75 - 82kg (light-heavyweight) - M,55
+639,Wrestling Gre-R - - 58kg (bantamweight) - M,55
+640,Wrestling Gre-R - 58 - 62kg (featherweight) - M,55
+641,Wrestling Gre-R - 62 - 67.5kg (lightweight) - M,55
+642,Wrestling Gre-R - 58 - 60kg (featherweight) - M,55
+643,Wrestling Gre-R - - 56kg (bantamweight) - M,55
+644,Wrestling Gre-R - + 87kg (super heavyweight) - M,55
+645,Wrestling Gre-R - 56 - 61kg (featherweight) - M,55
+646,Wrestling Gre-R - 61 - 66kg (lightweight) - M,55
+647,Wrestling Gre-R - 66 - 72kg (welterweight) - M,55
+648,Wrestling Gre-R - 72 - 79kg (middleweight) - M,55
+649,Wrestling Gre-R - 79 - 87kg (light-heavyweight) - M,55
+650,Wrestling Gre-R - - 52kg (flyweight) - M,55
+651,Wrestling Gre-R - 52 - 57kg (bantamweight) - M,55
+652,Wrestling Gre-R - 57 - 61kg (featherweight) - M,55
+653,Wrestling Gre-R - 61 - 67kg (lightweight) - M,55
+654,Wrestling Gre-R - 67 - 73kg (welterweight) - M,55
+655,Wrestling Gre-R - 73 - 79kg (middleweight) - M,55
+656,Wrestling Gre-R - + 97kg (super heavyweight) - M,55
+657,Wrestling Gre-R - 57 - 63kg (featherweight) - M,55
+658,Wrestling Gre-R - 63 - 70kg (lightweight) - M,55
+659,Wrestling Gre-R - 70 - 78kg (welterweight) - M,55
+660,Wrestling Gre-R - 78 - 87kg (middleweight) - M,55
+661,Wrestling Gre-R - 87 - 97kg (light-heavyweight) - M,55
+662,Wrestling Gre-R - - 48kg (light-flyweight) - M,55
+663,Wrestling Gre-R - + 100kg (super heavyweight) - M,55
+664,Wrestling Gre-R - 48 - 52kg (flyweight) - M,55
+665,Wrestling Gre-R - 57 - 62kg (featherweight) - M,55
+666,Wrestling Gre-R - 62 - 68kg (lightweight) - M,55
+667,Wrestling Gre-R - 68 - 74kg (welterweight) - M,55
+668,Wrestling Gre-R - 74 - 82kg (middleweight) - M,55
+669,Wrestling Gre-R - 82 - 90kg (light-heavyweight) - M,55
+670,Wrestling Gre-R - 90 - 100kg (heavyweight) - M,55
+671,Wrestling Gre-R - 100 - 130kg (super heavyweight) - M,55
+672,Wrestling Gre-R - 48 - 54kg - M,55
+673,Wrestling Gre-R - 54 - 58kg - M,55
+674,Wrestling Gre-R - 58 - 63kg - M,55
+675,Wrestling Gre-R - 63 - 69kg - M,55
+676,Wrestling Gre-R - 69 - 76kg - M,55
+677,Wrestling Gre-R - 76 - 85kg - M,55
+678,Wrestling Gre-R - 85 - 97kg - M,55
+679,Wrestling Gre-R - 97 - 130kg - M,55
+680,Wrestling Gre-R - - 55kg - M,55
+681,Wrestling Gre-R - 55 - 60kg - M,55
+682,Wrestling Gre-R - 60 - 66kg - M,55
+683,Wrestling Gre-R - 66 - 74kg - M,55
+684,Wrestling Gre-R - 74 - 84kg - M,55
+685,Wrestling Gre-R - 84 - 96kg - M,55
+686,Wrestling Gre-R - 96 - 120kg - M,55
+687,Wrestling Free. - - 47.6kg (light-flyweight) - M,56
+688,Wrestling Free. - + 71.67kg (heavyweight) - M,56
+689,Wrestling Free. - 47.6 - 52.16kg (flyweight) - M,56
+690,Wrestling Free. - 52.16 - 56.7kg (bantamweight) - M,56
+691,Wrestling Free. - 56.7 - 61.23kg (featherweight) - M,56
+692,Wrestling Free. - 61.23 - 65.77kg (lightweight) - M,56
+693,Wrestling Free. - 65.77 - 71.67kg (welterweight) - M,56
+694,Wrestling Free. - - 54kg (bantamweight) - M,56
+695,Wrestling Free. - + 73kg (heavyweight) - M,56
+696,Wrestling Free. - 54 - 60.3kg (featherweight) - M,56
+697,Wrestling Free. - 60.3 - 66.6kg (lightweight) - M,56
+698,Wrestling Free. - 66.6 - 73kg (middleweight) - M,56
+699,Wrestling Free. - - 60kg (featherweight) - M,56
+700,Wrestling Free. - + 80kg (heavyweight) - M,56
+701,Wrestling Free. - 60 - 67.5kg (lightweight) - M,56
+702,Wrestling Free. - 67.5 - 75kg (middleweight) - M,56
+703,Wrestling Free. - 75 - 80kg (light-heavyweight) - M,56
+704,Wrestling Free. - - 56kg (bantamweight) - M,56
+705,Wrestling Free. - + 87kg (heavyweight) - M,56
+706,Wrestling Free. - 56 - 61kg (featherweight) - M,56
+707,Wrestling Free. - 61 - 66kg (lightweight) - M,56
+708,Wrestling Free. - 66 - 72kg (welterweight) - M,56
+709,Wrestling Free. - 72 - 79kg (middleweight) - M,56
+710,Wrestling Free. - 79 - 87kg (light-heavyweight) - M,56
+711,Wrestling Free. - - 52kg (flyweight) - M,56
+712,Wrestling Free. - 52 - 57kg (bantamweight) - M,56
+713,Wrestling Free. - 57 - 63kg (featherweight) - M,56
+714,Wrestling Free. - 63 - 67kg (lightweight) - M,56
+715,Wrestling Free. - 67 - 73kg (welterweight) - M,56
+716,Wrestling Free. - 73 - 79kg (middleweight) - M,56
+717,Wrestling Free. - + 97kg (heavyweight) - M,56
+718,Wrestling Free. - 63 - 70kg (lightweight) - M,56
+719,Wrestling Free. - 70 - 78kg (welterweight) - M,56
+720,Wrestling Free. - 78 - 87kg (middleweight) - M,56
+721,Wrestling Free. - 87 - 97kg (light-heavyweight) - M,56
+722,Wrestling Free. - - 48kg (light-flyweight) - M,56
+723,Wrestling Free. - + 100kg (super heavyweight) - M,56
+724,Wrestling Free. - 48 - 52kg (flyweight) - M,56
+725,Wrestling Free. - 57 - 62kg (featherweight) - M,56
+726,Wrestling Free. - 62 - 68kg (lightweight) - M,56
+727,Wrestling Free. - 68 - 74kg (welterweight) - M,56
+728,Wrestling Free. - 74 - 82kg (middleweight) - M,56
+729,Wrestling Free. - 82 - 90kg (light-heavyweight) - M,56
+730,Wrestling Free. - 90 - 100kg (heavyweight) - M,56
+731,Wrestling Free. - 100 - 130kg (super heavyweight) - M,56
+732,Wrestling Free. - 48 - 54kg - M,56
+733,Wrestling Free. - 54 - 58kg - M,56
+734,Wrestling Free. - 58 - 63kg - M,56
+735,Wrestling Free. - 63 - 69kg - M,56
+736,Wrestling Free. - 69 - 76kg - M,56
+737,Wrestling Free. - 76 - 85kg - M,56
+738,Wrestling Free. - 85 - 97kg - M,56
+739,Wrestling Free. - 97 - 130kg - M,56
+740,Wrestling Free. - - 48kg - W,56
+741,Wrestling Free. - - 55kg - M,56
+742,Wrestling Free. - 48 - 55kg - W,56
+743,Wrestling Free. - 55 - 60kg - M,56
+744,Wrestling Free. - 55 - 63kg - W,56
+745,Wrestling Free. - 60 - 66kg - M,56
+746,Wrestling Free. - 63 - 72kg - W,56
+747,Wrestling Free. - 66 - 74kg - M,56
+748,Wrestling Free. - 74 - 84kg - M,56
+749,Wrestling Free. - 84 - 96kg - M,56
+750,Wrestling Free. - 96 - 120kg - M,56
